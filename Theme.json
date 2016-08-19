@@ -2,7 +2,7 @@
     "room": "42FR",
     "author": "NoXXoD",
     "icon": "http://i.imgur.com/cGKx2cE.png",
-    "css": "https://dl.dropboxusercontent.com/s/rdwge8h7jn31mou/FiMusicExtension.css?dl=0",
+    "css": "https://raw.githubusercontent.com/TheRainbowPhoenix/PlugDjTheme/master/42fr.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
